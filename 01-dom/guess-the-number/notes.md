@@ -1,0 +1,2 @@
+- Learnt how the querySelector works to select the particular element and how we can manipulate the same
+- Created guess my number game, and applied dom manipulation concepts here
